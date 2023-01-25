@@ -2,6 +2,8 @@
 
 Aplikasi order list ini merupakan aplikasi yang menampikan list orderan dengan beberapa fitur yang dapat digunakan oleh user.
 
+Kunjungi website : https://zuhriyal.github.io/
+
 ## Fitur Aplikasi
 Aplikasi ini memiliki beberapa fitur yaitu :
   - Cari oderan customer melalui nama customer.
