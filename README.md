@@ -1,29 +1,38 @@
-# web-test
+# Web Aplikasi Order List
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplikasi order list ini merupakan aplikasi yang menampikan list orderan dengan beberapa fitur yang dapat digunakan oleh user.
 
-## Recommended IDE Setup
+## Fitur Aplikasi
+Aplikasi ini memiliki beberapa fitur yaitu :
+  - Cari oderan customer melalui nama customer.
+  - Cari orderan customer berdasarkan produk. 
+  - Lihat list oderan dari yang terbaru atau terlama.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Teknologi
+Aplikasi ini dibangun dengan teknologi :
+  -Html 
+  -Css
+  -Nodejs
+  -Vuejs
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+## Kebutuhan Untuk Membangun Aplikasi
+  -Nodejs
+  -Vue Cli
+ 
+## Instalasi
+Siapkan folder untuk aplikasi, kemudian install vue cli melalui command prompt/terminal :
+...
+> npm init vue@latest
+...
+Setelah di instal, buka folder :
+...
+cd <nama project>
+...
+Kemudian install npm :
+...
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
+...
+Selanjutnya untuk menjalankan vue js, lakukan perintah :
+...
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+...
